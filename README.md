@@ -7,3 +7,4 @@ feat: create sync operation workflow
 fix: handle missing source directory
 feat: add sync progress logging
 refactor: improve file indexing performance
+test: add file sync unit tests
