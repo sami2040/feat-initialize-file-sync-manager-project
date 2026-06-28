@@ -5,3 +5,4 @@ feat: implement directory scanning
 feat: add file comparison engine
 feat: create sync operation workflow
 fix: handle missing source directory
+feat: add sync progress logging
