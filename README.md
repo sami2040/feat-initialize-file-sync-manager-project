@@ -6,3 +6,4 @@ feat: add file comparison engine
 feat: create sync operation workflow
 fix: handle missing source directory
 feat: add sync progress logging
+refactor: improve file indexing performance
