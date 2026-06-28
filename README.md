@@ -8,4 +8,4 @@ fix: handle missing source directory
 feat: add sync progress logging
 refactor: improve file indexing performance
 test: add file sync unit tests
-chore: update development dependencies
+chore: update development dependencies.
